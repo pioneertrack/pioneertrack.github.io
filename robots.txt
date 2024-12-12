@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: http://johnrosario.com/sitemap.xml
